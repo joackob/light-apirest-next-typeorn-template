@@ -122,7 +122,7 @@ Por último, un detalle. Por el momento, existe un [error](https://github.com/uu
   },
 ```
 
-En este mismo template existe un ejemplo sobre una forma de trabajar con [TypeORM](https://typeorm.io/). Se trata de un sistema para gestionar turnos de hospitales.
+En este mismo template existe un ejemplo sobre una forma de trabajar con [TypeORM](https://typeorm.io/). Se trata de un inventario para gestionar los recursos de una empresa.
 
 ## Recursos y opciones que ofrece la API de Ejemplo
 
